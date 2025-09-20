@@ -1,2 +1,4 @@
-# mmc-ponsel-web
-web
+Latihan Web
+===
+Ini adalah source code html dan css 
+yang dibuat untuk latihan
