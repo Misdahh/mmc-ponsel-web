@@ -33,7 +33,7 @@ h1, h2, h3, h4, h5, h6
 }
 .main-header
 {
-	background: url(../banner.jpeg) no-repeat;
+	background: url(../banner.jpg) no-repeat;
 	background-size: cover;
 	min-height: 710px;
 }
@@ -227,7 +227,7 @@ h3.txt-tl {
     background-position: center center;
 }
 .bg-image-2 {
-    background: url('../img/cta-banner.jpg') no-repeat center fixed;
+    background: url('../cta-banner.jpg') no-repeat center fixed;
     -webkit-background-size: 100% auto;
     -moz-background-size: 100% auto;
     -o-background-size: 100% auto;
@@ -424,5 +424,6 @@ a, a:hover
 }
 
 /****/
+
 
 
