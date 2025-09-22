@@ -35,11 +35,11 @@ h1, h2, h3, h4, h5, h6
 {
 	background: url(../banner.jpg) no-repeat;
 	background-size: cover;
-	min-height: 710px;
+	min-height: 810px;
 }
 .bg-color
 {
-	background-color: RGBA(1, 1, 1, 1.21);
+	background-color: RGBA(1, 1, 1, 1.51);
 }
 
 .nav > li > a {
@@ -424,6 +424,7 @@ a, a:hover
 }
 
 /****/
+
 
 
 
